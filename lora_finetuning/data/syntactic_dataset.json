@@ -1,0 +1,102 @@
+[
+  {
+    "text":"John said Mary would come, and she did come.",
+    "label":"ellipsis",
+    "target":"correct"
+  },
+  {
+    "text":"John said Mary would come, and she didn't.",
+    "label":"ellipsis",
+    "target":"incorrect"
+  },
+  {
+    "text":"Bill claimed Sarah would run, and she did run.",
+    "label":"ellipsis",
+    "target":"correct"
+  },
+  {
+    "text":"Bill claimed Sarah would run, and she didn't run.",
+    "label":"ellipsis",
+    "target":"incorrect"
+  },
+  {
+    "text":"Tom believed Jane would dance, and she did dance.",
+    "label":"ellipsis",
+    "target":"correct"
+  },
+  {
+    "text":"Tom believed Jane would dance, and she didn't dance.",
+    "label":"ellipsis",
+    "target":"incorrect"
+  },
+  {
+    "text":"The men said the women would sing, and they did sing.",
+    "label":"ellipsis",
+    "target":"correct"
+  },
+  {
+    "text":"The men said the women would sing, and they didn't sing.",
+    "label":"ellipsis",
+    "target":"incorrect"
+  },
+  {
+    "text":"Alice thought Bob would study, and he did study.",
+    "label":"ellipsis",
+    "target":"correct"
+  },
+  {
+    "text":"Alice thought Bob would study, and he didn't study.",
+    "label":"ellipsis",
+    "target":"incorrect"
+  },
+  {
+    "text":"The cat saw itself in the mirror.",
+    "label":"anaphor",
+    "target":"correct"
+  },
+  {
+    "text":"The cat saw itself in the mirrors.",
+    "label":"anaphor",
+    "target":"incorrect"
+  },
+  {
+    "text":"The dog chased itself around the yard.",
+    "label":"anaphor",
+    "target":"correct"
+  },
+  {
+    "text":"The dog chased itself around the yards.",
+    "label":"anaphor",
+    "target":"incorrect"
+  },
+  {
+    "text":"The children hurt themselves while playing.",
+    "label":"anaphor",
+    "target":"correct"
+  },
+  {
+    "text":"The children hurt themselves while playing games.",
+    "label":"anaphor",
+    "target":"correct"
+  },
+  {
+    "text":"The boy saw himself in the reflection.",
+    "label":"anaphor",
+    "target":"correct"
+  },
+  {
+    "text":"The boy saw himself in the reflections.",
+    "label":"anaphor",
+    "target":"incorrect"
+  },
+  {
+    "text":"The students taught themselves mathematics.",
+    "label":"anaphor",
+    "target":"correct"
+  },
+  {
+    "text":"The student taught themselves mathematics.",
+    "label":"anaphor",
+    "target":"incorrect"
+  }
+]
