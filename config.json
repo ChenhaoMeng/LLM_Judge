@@ -1,0 +1,18 @@
+{
+    "file_paths": {
+        "models": {
+            "0.5B": "Qwen2.5-0.5B_result_full_text.jsonl",
+            "1.5B": "Qwen2.5-1.5B_result_full_text.jsonl",
+            "7B": "Qwen2.5-7B_result.jsonl"
+        }
+    },
+    "output": {
+        "comparison_csv": "analysis_comparison_result.csv",
+        "uid_breakdown_csv": "analysis_uid_breakdown.csv",
+        "visualization_dir": "visualizations"
+    },
+    "analysis": {
+        "min_samples_per_uid": 10,
+        "significant_p_value": 0.05
+    }
+}
