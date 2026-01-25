@@ -1,0 +1,9 @@
+Model,Model_Path,Avg_Tokens,Fertility_Ratio
+Qwen2.5-0.5B,Qwen/Qwen2.5-0.5B,10.01,1.0
+Qwen2.5-1.5B,Qwen/Qwen2.5-1.5B,10.01,1.0
+Qwen2.5-3B,Qwen/Qwen2.5-3B,10.01,1.0
+Qwen2.5-7B,Qwen/Qwen2.5-7B,10.01,1.0
+Pythia-1.4B,EleutherAI/pythia-1.4b,21.24,2.12
+Pythia-2.8B,EleutherAI/pythia-2.8b,21.24,2.12
+Pythia-6.9B,EleutherAI/pythia-6.9b,21.24,2.12
+GPT-2,gpt2,29.5,2.95

@@ -1,0 +1,6 @@
+Model,Final_Loss,Duration_Minutes,Status,Timestamp
+Qwen/Qwen2.5-0.5B-Instruct,0.6405,8.53,✅ Success,2025-12-28 17:27:59
+Qwen/Qwen2.5-1.5B-Instruct,0.0000,22.83,✅ Success,2025-12-28 17:51:00
+Qwen/Qwen2.5-3B-Instruct,0.6491,43.98,✅ Success,2025-12-28 18:35:10
+Qwen/Qwen2.5-7B-Instruct,N/A,N/A,❌ Failed: CUDA out of memory. Tried to allocate 26.00 MiB. GPU 0 has a total capacity of 23.56 GiB of which 25,2025-12-28 18:35:28
+Qwen/Qwen2.5-14B-Instruct,N/A,N/A,"❌ Failed: ""_amp_foreach_non_finite_check_and_unscale_cuda"" not implemented for 'BFloat16'",2025-12-28 18:40:43
